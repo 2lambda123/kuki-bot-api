@@ -10,7 +10,7 @@
     "registry":"https://npm.pkg.github.com"
   },
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   },
   "license": "MIT",
   "keywords": [
